@@ -10,7 +10,7 @@ ADD_EXECUTABLE(area_calculator
 )
 
 ADD_EXECUTABLE(c-echo-count
-    main2.cpp
+    main.cpp
 )
 
 

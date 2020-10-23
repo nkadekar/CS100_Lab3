@@ -4,11 +4,6 @@ ADD_SUBDIRECTORY(googletest)
 
 SET(CMAKE_CXX_STANDARD 11)
 
-ADD_EXECUTABLE(area_calculator
-    src/main1.cpp
-    src/rectangle.cpp
-)
-
 ADD_EXECUTABLE(c-echo-count
     main.cpp
 )
